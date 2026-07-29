@@ -1,2 +1,3 @@
-# IBM_EmotionDetetctionProject
-IBM Generative Al Engineering Professional Certificate : Developing AI Applications with Python and Flask : AI-Graded Submission and Evaluation
+# Emotion Detection Project
+
+IBM Watson NLP Emotion Detection application with Flask deployment.
